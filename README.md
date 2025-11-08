@@ -31,7 +31,7 @@ Summary statistics (dataset used in this repo):
 
 | Model                 |      MAE |     RMSE |       MAPE |
 | --------------------- | -------: | -------: | ---------: |
-| LSTM (single-layer)   | **5.38** | **6.66** | **12.54%** |
+| LSTM (single-layer)   | **5.48** | **6.75** | **12.68%** |
 | ARIMA (p=5, d=1, q=0) |     5.58 |     6.84 |     14.08% |
 
 > The LSTM performed slightly better than ARIMA across MAE, RMSE and MAPE in this experiment.
